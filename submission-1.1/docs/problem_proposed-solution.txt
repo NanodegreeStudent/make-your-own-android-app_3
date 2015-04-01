@@ -1,0 +1,13 @@
+Problem:
+People are losing the ability to describe how they feel and express themselves. Along with this, 
+people with some mental health issues find it difficult to be in charge of their emotions.
+For this reason, there needs to exist a simple and private way to keep a track of how a person
+is feeling. Hence "I feel fine" or just "FINE!".
+
+Proposed Solution:
+An emotion logging app based on the emotion wheel as presented in the attached [emotionwheel.png].
+Each entry should be very simple to add (maybe with a simple swipe or a tap), allow users to 
+go through the emotion heirarchy as presented in the attached image resource.
+
+It should also remind the users at set intervals to log their emotions and keep a diary of entries
+with added notes and possibly images (however these should not be necessary).
